@@ -1,0 +1,24 @@
+C:\Users\f\source\repos\getbit\bin\Debug\getbit.exe
+C:\Users\f\source\repos\getbit\bin\Debug\getbit.pdb
+C:\Users\f\source\repos\getbit\obj\Debug\getbit.csprojAssemblyReference.cache
+C:\Users\f\source\repos\getbit\obj\Debug\getbit.csproj.CoreCompileInputs.cache
+C:\Users\f\source\repos\getbit\obj\Debug\getbit.exe
+C:\Users\f\source\repos\getbit\obj\Debug\getbit.pdb
+\\Maincomp\External HD\VS2019\getbit\bin\Debug\getbit.exe
+\\Maincomp\External HD\VS2019\getbit\bin\Debug\getbit.pdb
+\\Maincomp\External HD\VS2019\getbit\obj\Debug\getbit.csprojAssemblyReference.cache
+\\Maincomp\External HD\VS2019\getbit\obj\Debug\getbit.csproj.CoreCompileInputs.cache
+\\Maincomp\External HD\VS2019\getbit\obj\Debug\getbit.exe
+\\Maincomp\External HD\VS2019\getbit\obj\Debug\getbit.pdb
+C:\Users\f\Desktop\getbit\bin\Debug\getbit.exe
+C:\Users\f\Desktop\getbit\bin\Debug\getbit.pdb
+C:\Users\f\Desktop\getbit\obj\Debug\getbit.csprojAssemblyReference.cache
+C:\Users\f\Desktop\getbit\obj\Debug\getbit.csproj.CoreCompileInputs.cache
+C:\Users\f\Desktop\getbit\obj\Debug\getbit.exe
+C:\Users\f\Desktop\getbit\obj\Debug\getbit.pdb
+E:\VS2019\getbit\bin\Debug\getbit.exe
+E:\VS2019\getbit\bin\Debug\getbit.pdb
+E:\VS2019\getbit\obj\Debug\getbit.csprojAssemblyReference.cache
+E:\VS2019\getbit\obj\Debug\getbit.csproj.CoreCompileInputs.cache
+E:\VS2019\getbit\obj\Debug\getbit.exe
+E:\VS2019\getbit\obj\Debug\getbit.pdb

@@ -1,0 +1,60 @@
+C:\Users\f\source\repos\getbit\bin\Release\getbit.exe
+C:\Users\f\source\repos\getbit\bin\Release\getbit.pdb
+C:\Users\f\source\repos\getbit\obj\Release\getbit.csprojAssemblyReference.cache
+C:\Users\f\source\repos\getbit\obj\Release\getbit.csproj.CoreCompileInputs.cache
+C:\Users\f\source\repos\getbit\obj\Release\getbit.exe
+C:\Users\f\source\repos\getbit\obj\Release\getbit.pdb
+\\Maincomp\External HD\VS2019\getbit\bin\Release\getbit.exe
+\\Maincomp\External HD\VS2019\getbit\bin\Release\getbit.pdb
+\\Maincomp\External HD\VS2019\getbit\obj\Release\getbit.csprojAssemblyReference.cache
+\\Maincomp\External HD\VS2019\getbit\obj\Release\getbit.csproj.CoreCompileInputs.cache
+\\Maincomp\External HD\VS2019\getbit\obj\Release\getbit.exe
+\\Maincomp\External HD\VS2019\getbit\obj\Release\getbit.pdb
+C:\Users\f\Desktop\getbit\bin\Release\getbit.exe
+C:\Users\f\Desktop\getbit\bin\Release\getbit.pdb
+C:\Users\f\Desktop\getbit\obj\Release\getbit.csprojAssemblyReference.cache
+C:\Users\f\Desktop\getbit\obj\Release\getbit.csproj.CoreCompileInputs.cache
+C:\Users\f\Desktop\getbit\obj\Release\getbit.exe
+C:\Users\f\Desktop\getbit\obj\Release\getbit.pdb
+E:\VS2019\getbit\bin\Release\getbit.exe
+E:\VS2019\getbit\bin\Release\getbit.pdb
+E:\VS2019\getbit\obj\Release\getbit.csproj.CoreCompileInputs.cache
+E:\VS2019\getbit\obj\Release\getbit.exe
+E:\VS2019\getbit\obj\Release\getbit.pdb
+E:\VS2019\getbit\bin\Release\mscorlib.dll
+E:\VS2019\getbit\bin\Release\sortkey.nlp
+E:\VS2019\getbit\bin\Release\sorttbls.nlp
+E:\VS2019\getbit\bin\Release\big5.nlp
+E:\VS2019\getbit\bin\Release\bopomofo.nlp
+E:\VS2019\getbit\bin\Release\ksc.nlp
+E:\VS2019\getbit\bin\Release\prc.nlp
+E:\VS2019\getbit\bin\Release\prcp.nlp
+E:\VS2019\getbit\bin\Release\xjis.nlp
+E:\VS2019\getbit\bin\Release\normidna.nlp
+E:\VS2019\getbit\bin\Release\normnfc.nlp
+E:\VS2019\getbit\bin\Release\normnfd.nlp
+E:\VS2019\getbit\bin\Release\normnfkc.nlp
+E:\VS2019\getbit\bin\Release\normnfkd.nlp
+E:\VS2019\getbit\obj\Release\getbit.csproj.CopyComplete
+F:\VS2019\getbit\bin\Release\getbit.exe
+F:\VS2019\getbit\bin\Release\getbit.pdb
+F:\VS2019\getbit\bin\Release\mscorlib.dll
+F:\VS2019\getbit\bin\Release\sortkey.nlp
+F:\VS2019\getbit\bin\Release\sorttbls.nlp
+F:\VS2019\getbit\bin\Release\big5.nlp
+F:\VS2019\getbit\bin\Release\bopomofo.nlp
+F:\VS2019\getbit\bin\Release\ksc.nlp
+F:\VS2019\getbit\bin\Release\prc.nlp
+F:\VS2019\getbit\bin\Release\prcp.nlp
+F:\VS2019\getbit\bin\Release\xjis.nlp
+F:\VS2019\getbit\bin\Release\normidna.nlp
+F:\VS2019\getbit\bin\Release\normnfc.nlp
+F:\VS2019\getbit\bin\Release\normnfd.nlp
+F:\VS2019\getbit\bin\Release\normnfkc.nlp
+F:\VS2019\getbit\bin\Release\normnfkd.nlp
+F:\VS2019\getbit\obj\Release\getbit.csprojAssemblyReference.cache
+F:\VS2019\getbit\obj\Release\getbit.csproj.CoreCompileInputs.cache
+F:\VS2019\getbit\obj\Release\getbit.csproj.CopyComplete
+F:\VS2019\getbit\obj\Release\getbit.exe
+F:\VS2019\getbit\obj\Release\getbit.pdb
+E:\VS2019\getbit\obj\Release\getbit.csproj.AssemblyReference.cache
